@@ -1,0 +1,27 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "simple chat node js",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phitran35/simple-chat-nodejs.git"
+  },
+  "keywords": [
+    "chat",
+    "real",
+    "time"
+  ],
+  "author": "Phi Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phitran35/simple-chat-nodejs/issues"
+  },
+  "homepage": "https://github.com/phitran35/simple-chat-nodejs#readme"
+}
